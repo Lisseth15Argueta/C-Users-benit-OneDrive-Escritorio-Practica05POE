@@ -1,0 +1,16 @@
+C:\Users\benit\OneDrive\Escritorio\Practica 6 POE\ValidacionEdad\ValidacionEdad\bin\Debug\net6.0-windows\ValidacionEdad.exe
+C:\Users\benit\OneDrive\Escritorio\Practica 6 POE\ValidacionEdad\ValidacionEdad\bin\Debug\net6.0-windows\ValidacionEdad.deps.json
+C:\Users\benit\OneDrive\Escritorio\Practica 6 POE\ValidacionEdad\ValidacionEdad\bin\Debug\net6.0-windows\ValidacionEdad.runtimeconfig.json
+C:\Users\benit\OneDrive\Escritorio\Practica 6 POE\ValidacionEdad\ValidacionEdad\bin\Debug\net6.0-windows\ValidacionEdad.dll
+C:\Users\benit\OneDrive\Escritorio\Practica 6 POE\ValidacionEdad\ValidacionEdad\bin\Debug\net6.0-windows\ValidacionEdad.pdb
+C:\Users\benit\OneDrive\Escritorio\Practica 6 POE\ValidacionEdad\ValidacionEdad\obj\Debug\net6.0-windows\ValidacionEdad.Form1.resources
+C:\Users\benit\OneDrive\Escritorio\Practica 6 POE\ValidacionEdad\ValidacionEdad\obj\Debug\net6.0-windows\ValidacionEdad.csproj.GenerateResource.cache
+C:\Users\benit\OneDrive\Escritorio\Practica 6 POE\ValidacionEdad\ValidacionEdad\obj\Debug\net6.0-windows\ValidacionEdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\OneDrive\Escritorio\Practica 6 POE\ValidacionEdad\ValidacionEdad\obj\Debug\net6.0-windows\ValidacionEdad.AssemblyInfoInputs.cache
+C:\Users\benit\OneDrive\Escritorio\Practica 6 POE\ValidacionEdad\ValidacionEdad\obj\Debug\net6.0-windows\ValidacionEdad.AssemblyInfo.cs
+C:\Users\benit\OneDrive\Escritorio\Practica 6 POE\ValidacionEdad\ValidacionEdad\obj\Debug\net6.0-windows\ValidacionEdad.csproj.CoreCompileInputs.cache
+C:\Users\benit\OneDrive\Escritorio\Practica 6 POE\ValidacionEdad\ValidacionEdad\obj\Debug\net6.0-windows\ValidacionEdad.dll
+C:\Users\benit\OneDrive\Escritorio\Practica 6 POE\ValidacionEdad\ValidacionEdad\obj\Debug\net6.0-windows\refint\ValidacionEdad.dll
+C:\Users\benit\OneDrive\Escritorio\Practica 6 POE\ValidacionEdad\ValidacionEdad\obj\Debug\net6.0-windows\ValidacionEdad.pdb
+C:\Users\benit\OneDrive\Escritorio\Practica 6 POE\ValidacionEdad\ValidacionEdad\obj\Debug\net6.0-windows\ValidacionEdad.genruntimeconfig.cache
+C:\Users\benit\OneDrive\Escritorio\Practica 6 POE\ValidacionEdad\ValidacionEdad\obj\Debug\net6.0-windows\ref\ValidacionEdad.dll
